@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: peckjon
 Donate link: http://seemeroar.com/donate/
-Tags: comments, spam
+Tags: protected, private, titles
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 0.1
