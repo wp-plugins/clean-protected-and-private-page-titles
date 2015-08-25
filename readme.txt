@@ -4,7 +4,7 @@ Donate link: http://seemeroar.com/donate/
 Tags: protected, private, titles
 Requires at least: 3.0.1
 Tested up to: 4.3
-Stable tag: 0.1
+Stable tag: 0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -29,12 +29,17 @@ N/A
 
 == Screenshots ==
 
-N/A
+1. Before
+2. After
 
 == Changelog ==
 
 = 0.1 =
 * initial version of the plugin
+
+= 0.2 =
+* verified WP 4.3 compatibility, added screenshots
+
 
 == Upgrade Notice ==
 
